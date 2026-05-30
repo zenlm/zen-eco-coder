@@ -32,7 +32,7 @@ print(tokenizer.decode(output[0], skip_special_tokens=True))
 
 - [zen-eco](https://huggingface.co/zenlm/zen-eco) — Base 4B model
 - [zen-code](https://huggingface.co/zenlm/zen-code) — Standalone 4B code model
-- [zen-coder](https://huggingface.co/zenlm/zen-coder) — 24B code model
+- [zen-coder](https://huggingface.co/zenlm/zen-5-coder-gguf) — 24B code model
 - [Zen LM](https://github.com/zenlm) — Full model family
 
 Apache 2.0 · [Zen LM](https://zenlm.org) · [Hanzo AI](https://hanzo.ai)

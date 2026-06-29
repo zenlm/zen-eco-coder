@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="zen-eco-coder" width="880"></p>
+
 # Zen Eco 4B Coder
 
 Code generation and analysis model. Part of the Zen Eco family.
